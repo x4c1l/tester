@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/fightvod.png" group-title="Sports", FIGHT 
 http://210.210.155.35/session/9700a12e-d8fa-11eb-9242-b82a72d63267/x6bnqe/h/h05/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCb1vKfPXfEQ04ZLSm6QjTwmtATbiRg1MBP4O85-gTOlomjyqyvDOS2NMOkoadSV_gUhI&usqp=CAU" group-title="Sports", EURO Sport 2 
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
